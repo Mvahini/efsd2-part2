@@ -1,0 +1,10 @@
+Django==3.0.7
+django-crispy-forms==1.9.1
+django-mathfilters==1.0.0
+djangorestframework==3.11.0
+requests==2.25.1
+reportlab==3.6.6
+xhtml2pdf
+psycopg2==2.8.6
+gunicorn
+django-heroku
